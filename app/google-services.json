@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218547102624",
+    "project_id": "cul-student-helper-app",
+    "storage_bucket": "cul-student-helper-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218547102624:android:a2931bb20e4505e3c87ac5",
+        "android_client_info": {
+          "package_name": "ng.com.caleb.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXKhdemooihQf1fbw0PBamHzzLeddoT4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
