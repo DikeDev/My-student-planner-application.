@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "218547102624",
+    "firebase_url": "https://cul-student-helper-app-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "cul-student-helper-app",
     "storage_bucket": "cul-student-helper-app.appspot.com"
   },
@@ -12,7 +13,20 @@
           "package_name": "ng.com.caleb.project"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "218547102624-5ld16i9il0qkuur9kpict5pbh21k17e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.caleb.project",
+            "certificate_hash": "c03ebe17517625c718e3133385145c9dd6047d14"
+          }
+        },
+        {
+          "client_id": "218547102624-4pnn1lhuiqsl97ulj70c5fvhhj126e7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCXKhdemooihQf1fbw0PBamHzzLeddoT4w"
@@ -20,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218547102624-4pnn1lhuiqsl97ulj70c5fvhhj126e7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

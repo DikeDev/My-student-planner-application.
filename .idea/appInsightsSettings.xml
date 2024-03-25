@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="ng.com.caleb.project" />
+                  <option name="mobileSdkAppId" value="1:218547102624:android:a2931bb20e4505e3c87ac5" />
+                  <option name="projectId" value="cul-student-helper-app" />
+                  <option name="projectNumber" value="218547102624" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
